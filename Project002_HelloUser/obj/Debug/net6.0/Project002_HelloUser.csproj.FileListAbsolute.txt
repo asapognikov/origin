@@ -1,0 +1,15 @@
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\bin\Debug\net6.0\Project002_HelloUser.exe
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\bin\Debug\net6.0\Project002_HelloUser.deps.json
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\bin\Debug\net6.0\Project002_HelloUser.runtimeconfig.json
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\bin\Debug\net6.0\Project002_HelloUser.dll
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\bin\Debug\net6.0\Project002_HelloUser.pdb
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.AssemblyInfo.cs
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.dll
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\obj\Debug\net6.0\refint\Project002_HelloUser.dll
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.pdb
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\obj\Debug\net6.0\Project002_HelloUser.genruntimeconfig.cache
+C:\Users\asapo\Desktop\projects\Project002_HelloUser\obj\Debug\net6.0\ref\Project002_HelloUser.dll
